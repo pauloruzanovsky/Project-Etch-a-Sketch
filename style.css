@@ -1,0 +1,27 @@
+h1 { 
+
+}
+
+.gridBlock {
+    background-color: white;
+    display: block;
+    flex-grow: 1;
+}
+
+.gridColumn {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    height: 800px;
+    flex-grow: 1;
+
+}
+
+.container1 {
+    border: 2px solid rgb(243, 206, 43);
+    display:flex;
+    margin: 10px;
+    height: 100%;
+    width: 800px;
+
+}
